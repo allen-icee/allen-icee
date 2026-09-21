@@ -1,19 +1,22 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Allen's Banner" width="100%">
+  <img src="assets/banner.png" alt="Allen's Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
 </p>
 
-<table border="0" width="100%">
+<table border="0" width="100%" style="border-collapse: collapse; margin-top: 20px;">
   <tr>
-    <td width="20%" align="center">
-      <img src="assets/logo.jpg" alt="Allen's Logo" width="150" style="border-radius: 50%;">
+    <td width="20%" align="center" valign="middle">
+      <img src="assets/logo.jpg" alt="Allen's Logo" width="150" style="border-radius: 50%; border: 4px solid #2563EB; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
     </td>
-    <td width="80%">
-      <h1>Allen Icee Dequiros ヾ(＾-＾)ノ</h1>
-      <h3>Full-Stack Web & Mobile AI-Assisted Developer | Digital Artist</h3>
-      <p>A passionate BSIT student continuously learning and building practical, user-focused systems to solve everyday problems for local communities.</p>
-      <a href="https://www.linkedin.com/in/allen-icee-dequiros"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-      <a href="https://mrdearest.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
-      <a href="mailto:alleniceedequiros@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <td width="80%" valign="middle" style="padding-left: 20px;">
+      <a href="https://allen-icee.is-a.dev">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2563EB&vCenter=true&width=600&lines=Allen+Icee+Dequiros+ヾ(＾-＾)ノ;BSIT+Magna+Cum+Laude;Full-Stack+Web+%26+Mobile+Dev;UI%2FUX+Designer+%26+Artist" alt="Typing SVG" />
+      </a>
+      <p style="font-size: 16px; color: #555; margin-top: 5px;">Information Technology graduate specializing in Web and Mobile Application Development. Experienced in building full-stack systems, dynamic web applications, and cross-platform projects with modern technologies. ᕙ(`▿´)ᕗ</p>
+      <div style="margin-top: 15px;">
+        <a href="https://allen-icee.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
+        <a href="https://www.linkedin.com/in/allen-icee-dequiros"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="mailto:alleniceedequiros@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+      </div>
     </td>
   </tr>
 </table>
@@ -21,25 +24,128 @@
 <hr>
 
 <h3>Languages & Tools (⌐■_■)</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="35" title="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35" title="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="35" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="35" title="Ionic"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="35" title="Electron"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,vite,nextjs,remix,laravel,php,python&theme=light" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,supabase,prisma,electron,capacitor,git,github&theme=light" />
+  </a>
 </p>
 
 <hr>
 
 <h2>Project Showcase (o^▽^o)</h2>
 
-<h3>Mobile Applications</h3>
+<h3>Modern Full-Stack Web Applications ✧*｡٩(ˊᗜˋ*)و✧*｡</h3>
 <table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <strong>Allen Icee Portfolio</strong><br>
+      <em>React.js, Vite, Tailwind CSS, Framer Motion, Firebase, Three.js</em><br><br>
+      <ul>
+        <li>A highly optimized, interactive developer portfolio and digital art gallery.</li>
+        <li>Features interactive 3D elements and parallax animations using Framer Motion and Three.js.</li>
+        <li>Dynamic project shelves and experience timelines powered by Firebase Firestore.</li>
+      </ul>
+      <a href="https://allen-icee.is-a.dev"><img src="https://img.shields.io/badge/Live_Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live App"/></a>
+      <a href="https://github.com/allen-icee/allen-icee-portfolio"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="assets/Allen Icee Portfolio/1.png" width="220"><br><br>
+      <img src="assets/Allen Icee Portfolio/2.png" width="220">
+    </td>
+  </tr>
+  <tr>
+    <td width="60%" valign="top">
+      <strong>dear-recon (Shopify App)</strong><br>
+      <em>Remix, React.js, Prisma, PostgreSQL, Shopify GraphQL</em><br><br>
+      <ul>
+        <li>An inventory reconciliation Shopify app to track discrepancies between refunded and returned items.</li>
+        <li>Automated exception detection through GraphQL scanning of store orders.</li>
+        <li>Clean Polaris UI dashboard for merchants to manage inventory exceptions.</li>
+      </ul>
+      <a href="https://dear-recon.onrender.com/"><img src="https://img.shields.io/badge/Live_Website-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Live App"/></a>
+      <a href="https://github.com/allen-icee/dear-recon"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="assets/DearRecon/1.png" width="220"><br><br>
+      <img src="assets/DearRecon/2.png" width="220">
+    </td>
+  </tr>
+  <tr>
+    <td width="60%" valign="top">
+      <strong>Rental by Nicole</strong><br>
+      <em>React.js, Vite, Supabase, Tailwind CSS, TypeScript</em><br><br>
+      <ul>
+        <li>A modern web application for a boutique fashion rental service.</li>
+        <li>Interactive digital storefront with an availability calendar and sizing guides.</li>
+        <li>Secure admin dashboard for inventory management with full CRUD capabilities.</li>
+      </ul>
+      <a href="https://rental-by-nicole.vercel.app/"><img src="https://img.shields.io/badge/Live_Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live App"/></a>
+      <a href="https://github.com/allen-icee/rental-by-nicole"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="assets/Rental By Nicole/1.png" width="220"><br><br>
+      <img src="assets/Rental By Nicole/2.png" width="220">
+    </td>
+  </tr>
+  <tr>
+    <td width="60%" valign="top">
+      <strong>Dearest Journal</strong><br>
+      <em>React.js, Vite, TypeScript, IndexedDB, Base64</em><br><br>
+      <ul>
+        <li>A local-first, privacy-focused digital journal replicating a physical notebook.</li>
+        <li>Zero backend with complete privacy using IndexedDB for local persistence.</li>
+        <li>Dynamic Base64 custom font engine for a personalized writing aesthetic.</li>
+      </ul>
+      <a href="https://dearest-journal.vercel.app/"><img src="https://img.shields.io/badge/Live_Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live App"/></a>
+      <a href="https://github.com/allen-icee/dearest-journal"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="assets/Dearest Journal/1.png" width="220"><br><br>
+      <img src="assets/Dearest Journal/2.png" width="220">
+    </td>
+  </tr>
+  <tr>
+    <td width="60%" valign="top">
+      <strong>JaneDesk Website Portfolio</strong><br>
+      <em>React.js, TypeScript, Vite, Laravel, Tailwind CSS, PostgreSQL, Cypress, Supabase</em><br><br>
+      <ul>
+        <li>Built a responsive full-stack portfolio platform to showcase projects, technical skills, and professional experience.</li>
+        <li>Developed a monorepo architecture combining a React frontend with a Laravel-powered backend API.</li>
+        <li>Implemented responsive UI design, optimized asset delivery, and integrated contact form functionality.</li>
+      </ul>
+      <a href="https://janedesk.vercel.app"><img src="https://img.shields.io/badge/Live_Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live App"/></a>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="assets/Janine-Portfolio/1.png" width="220"><br><br>
+      <img src="assets/Janine-Portfolio/2.png" width="220">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3>Mobile Applications ( ˘▽˘)っ</h3>
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <strong>SenyasFSL: Gamified Filipino Sign Language Learning App</strong><br>
+      <em>React.js, TypeScript, Firebase, Tailwind CSS, DaisyUI, Capacitor, MediaPipe, TensorFlow</em><br><br>
+      <ul>
+        <li>Developed a cross-platform Filipino Sign Language (FSL) learning application with gamified lessons, progressive levels, and achievement-based learning.</li>
+        <li>Integrated gesture recognition using MediaPipe and TensorFlow to create interactive sign language gameplay.</li>
+        <li>Built mobile-ready deployment using Capacitor with Firebase Authentication, Firestore, and Cloud Functions.</li>
+      </ul>
+      <a href="https://iron-gizmo-471110-d0.web.app"><img src="https://img.shields.io/badge/Live_Website-000000?style=flat-square&logo=firebase&logoColor=white" alt="Live App"/></a>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="assets/SenyasFSL/MainPage/1.png" width="220"><br><br>
+      <img src="assets/SenyasFSL/MainGame/1.png" width="220">
+    </td>
+  </tr>
   <tr>
     <td width="60%" valign="top">
       <strong>SenyasFSL-Lite</strong><br>
@@ -76,48 +182,16 @@
 
 <br>
 
-<h3>Full-Stack Web & Desktop Systems</h3>
+<h3>Municipal & Desktop Systems (LGU-Gerona) ᕦ(ò_óˇ)ᕤ</h3>
 <table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <strong>SenyaFSL: Gamified Filipino Sign Language Learning App</strong><br>
-      <em>React.js, TypeScript, Firebase, Tailwind CSS, DaisyUI, Capacitor, MediaPipe, TensorFlow</em><br><br>
-      <ul>
-        <li>Developed a cross-platform Filipino Sign Language (FSL) learning application with gamified lessons, progressive levels, and achievement-based learning.</li>
-        <li>Integrated gesture recognition using MediaPipe and TensorFlow to create interactive sign language gameplay and improve learning engagement.</li>
-        <li>Built mobile-ready deployment using Capacitor with Firebase Authentication, Firestore, and Cloud Functions for scalable backend services.</li>
-      </ul>
-      <a href="https://iron-gizmo-471110-d0.web.app"><img src="https://img.shields.io/badge/Live_Website-000000?style=flat-square&logo=firebase&logoColor=white" alt="Live App"/></a>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="assets/SenyasFSL/MainPage/1.png" width="220"><br><br>
-      <img src="assets/SenyasFSL/MainGame/1.png" width="220">
-    </td>
-  </tr>
-  <tr>
-    <td width="60%" valign="top">
-      <strong>JaneDesk Website Portfolio</strong><br>
-      <em>React.js, TypeScript, Vite, Laravel, Tailwind CSS, PostgreSQL, Cypress, Supabase</em><br><br>
-      <ul>
-        <li>Built a responsive full-stack portfolio platform to showcase projects, technical skills, and professional experience.</li>
-        <li>Developed a monorepo architecture combining a React frontend with a Laravel-powered backend API.</li>
-        <li>Implemented responsive UI design, optimized asset delivery, and integrated contact form functionality.</li>
-      </ul>
-      <a href="https://janedesk.vercel.app"><img src="https://img.shields.io/badge/Live_Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live App"/></a>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="assets/Janine-Portfolio/1.png" width="220"><br><br>
-      <img src="assets/Janine-Portfolio/2.png" width="220">
-    </td>
-  </tr>
   <tr>
     <td width="60%" valign="top">
       <strong>Motorized Tricycle Operator's Permit (MTOP) System</strong><br>
       <em>Laravel, React.js, TypeScript, Tailwind CSS, Electron.js, SQLite</em><br><br>
       <ul>
-        <li>Developed a municipal Motorized Tricycle Operator’s Permit (MTOP) management system to automate franchise applications, renewals, fee tracking, and permit generation.</li>
+        <li>Developed a municipal MTOP management system to automate franchise applications, renewals, fee tracking, and permit generation.</li>
         <li>Built an Electron-based desktop client for municipal staff to manage OR records, payments, and operational workflows.</li>
-        <li>Implemented synchronization workers, automated expiration alerts, and audit logging to improve regulatory compliance and data reliability.</li>
+        <li>Implemented synchronization workers, automated expiration alerts, and audit logging to improve regulatory compliance.</li>
       </ul>
       <a href="https://drive.google.com/drive/folders/1Dalthr5Zv-mPy7xF7yLdq4gtseXXNzCA?usp=drive_link"><img src="https://img.shields.io/badge/View_Gallery-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="View Gallery"/></a>
     </td>
@@ -178,15 +252,46 @@
 
 <hr>
 
+<h2 align="center">GitHub Activity (⌐■_■)</h2>
+<p align="center">
+  <a href="https://github.com/allen-icee">
+    <img src="https://github-readme-stats.vercel.app/api?username=allen-icee&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/allen-icee">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=allen-icee&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB" alt="GitHub Streak" width="48%" />
+  </a>
+</p>
+
+<hr>
+
 <h3>Certifications ヽ(•‿•)ノ</h3>
+
+<h4>Networking & Hardware (￣^￣)ゞ</h4>
 <ul>
-  <li><strong>EF SET English Certificate 80/100 (C2 Proficient)</strong></li>
-  <li><strong>Google Foundations: Data, Data, Everywhere</strong></li>
-  <li><strong>Google Crash Course on Python</strong></li>
-  <li><strong>Cisco Apply AI: Analyze Customer Reviews</strong></li>
-  <li><strong>Cisco CCNA: Switching, Routing, and Wireless Essentials</strong></li>
-  <li><strong>Cisco CCNA: Introduction to Networks</strong></li>
-  <li><strong>Cisco JavaScript Essentials 1</strong></li>
+  <li><strong>CCNA: Switching, Routing, and Wireless Essentials</strong> (Cisco, June 2024)</li>
+  <li><strong>CCNA: Introduction to Networks</strong> (Cisco, January 2024)</li>
+  <li><strong>Computer Hardware Basics</strong> (Cisco, September 2026)</li>
+  <li><strong>Networking Basics</strong> (Cisco, August 2026)</li>
+  <li><strong>Networking Devices and Initial Configuration</strong> (Cisco, August 2026)</li>
+  <li><strong>Network Addressing and Basic Troubleshooting</strong> (Cisco, August 2026)</li>
+  <li><strong>Network Support and Security</strong> (Cisco, August 2026)</li>
+  <li><strong>Network Technician Career Path</strong> (Cisco, August 2026)</li>
+</ul>
+
+<h4>Artificial Intelligence & Data Analytics ᕙ( ⇀` ‿ ´↼ )ᕗ</h4>
+<ul>
+  <li><strong>Generative AI for Software Developers</strong> (IBM, July 2026)</li>
+  <li><strong>Google Data Analytics Professional 3/9 Modules</strong> (Google, June-July 2026)</li>
+  <li><strong>Introduction to Modern AI</strong> (Cisco, August 2026)</li>
+  <li><strong>Apply AI: Analyze Customer Reviews</strong> (Cisco, Sept 2025)</li>
+</ul>
+
+<h4>Software Development & Language ( ˘▽˘)旦</h4>
+<ul>
+  <li><strong>Crash Course on Python</strong> (Google, June 2026)</li>
+  <li><strong>JavaScript Essentials 1</strong> (Cisco, August 2025)</li>
+  <li><strong>HTML Essentials</strong> (Cisco, September 2026)</li>
+  <li><strong>EF SET English Certificate: C2 Proficient</strong> (Score: 80/100, May 2026)</li>
 </ul>
 
 <hr>
@@ -196,5 +301,9 @@
 <p align="center">
   <a href="mailto:alleniceedequiros@gmail.com">Email Me</a> • 
   <a href="https://www.linkedin.com/in/allen-icee-dequiros">LinkedIn</a> • 
-  <a href="https://mrdearest.vercel.app">Portfolio</a>
+  <a href="https://allen-icee.is-a.dev">Portfolio</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=150&section=footer" />
 </p>
