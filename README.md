@@ -9,9 +9,11 @@
     </td>
     <td width="80%" valign="middle" style="padding-left: 20px;">
       <a href="https://allen-icee.is-a.dev">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2563EB&vCenter=true&width=600&lines=Allen+Icee+Dequiros+ヾ(＾-＾)ノ;BSIT+Magna+Cum+Laude;Full-Stack+Web+%26+Mobile+Dev;UI%2FUX+Designer+%26+Artist" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2563EB&vCenter=true&width=600&lines=Allen+Icee+Dequiros+⊂(≽^•⩊•^≼)つ;BSIT+Magna+Cum+Laude;Full-Stack+Web+%26+Mobile+Dev;UI%2FUX+Designer+%26+Artist" alt="Typing SVG" />
       </a>
-      <p style="font-size: 16px; color: #555; margin-top: 5px;">Information Technology graduate specializing in Web and Mobile Application Development. Experienced in building full-stack systems, dynamic web applications, and cross-platform projects with modern technologies. ᕙ(`▿´)ᕗ</p>
+      <p style="font-size: 16px; color: #555; margin-top: 5px;">
+        <strong>IT graduate interested in hands-on, practical technology work</strong>—especially troubleshooting, systems support, networking, and infrastructure. I enjoy solving technical problems, working with both hardware and software, and continuously learning how systems work together. Currently looking to grow through a full-time IT role where I can contribute, gain real-world experience, and build toward a career in IT infrastructure and networking. ᕙ(`▿´)ᕗ
+      </p>
       <div style="margin-top: 15px;">
         <a href="https://allen-icee.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
         <a href="https://www.linkedin.com/in/allen-icee-dequiros"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -30,13 +32,13 @@
   </a>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,supabase,prisma,electron,capacitor,git,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,supabase,prisma,electron,figma,git,github&theme=light" />
   </a>
 </p>
 
 <hr>
 
-<h2>Project Showcase (o^▽^o)</h2>
+<h2>Project Showcase ⊂(≽^•⩊•^≼)つ</h2>
 
 <h3>Modern Full-Stack Web Applications ✧*｡٩(ˊᗜˋ*)و✧*｡</h3>
 <table border="0" width="100%">
@@ -252,14 +254,22 @@
 
 <hr>
 
-<h2 align="center">GitHub Activity (⌐■_■)</h2>
+<h2 align="center">GitHub Activity ⊂(≽^•⩊•^≼)つ</h2>
 <p align="center">
   <a href="https://github.com/allen-icee">
-    <img src="https://github-readme-stats.vercel.app/api?username=allen-icee&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=allen-icee&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/allen-icee">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=allen-icee&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=allen-icee&theme=transparent&hide_border=true&title_color=2563EB" alt="GitHub Streak" width="48%" />
   </a>
+</p>
+
+<hr>
+
+<h3>Hobbies & Interests ૮ ˶ᵔ ᵕ ᵔ˶ ა</h3>
+<p>
+  <strong>Interests:</strong> Playing Instruments, Reading Books, Manhwas, Manhuas, Manga, Watching Movies (Horror, Drama, Romance), Drawing, Sketching, Learning New Stuffs, Crafting, Poetry, Writing. <br>
+  <strong>Favorites:</strong> Cats, Dogs, Birds, Butterflies, Insects, and the color Gray/Grey.
 </p>
 
 <hr>
@@ -267,36 +277,36 @@
 <h3>Certifications ヽ(•‿•)ノ</h3>
 
 <h4>Networking & Hardware (￣^￣)ゞ</h4>
-<ul>
-  <li><strong>CCNA: Switching, Routing, and Wireless Essentials</strong> (Cisco, June 2024)</li>
-  <li><strong>CCNA: Introduction to Networks</strong> (Cisco, January 2024)</li>
-  <li><strong>Computer Hardware Basics</strong> (Cisco, September 2026)</li>
-  <li><strong>Networking Basics</strong> (Cisco, August 2026)</li>
-  <li><strong>Networking Devices and Initial Configuration</strong> (Cisco, August 2026)</li>
-  <li><strong>Network Addressing and Basic Troubleshooting</strong> (Cisco, August 2026)</li>
-  <li><strong>Network Support and Security</strong> (Cisco, August 2026)</li>
-  <li><strong>Network Technician Career Path</strong> (Cisco, August 2026)</li>
-</ul>
+<p>
+  <img src="https://img.shields.io/badge/Cisco-CCNA:_Switching_Routing_Wireless-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-CCNA:_Introduction_to_Networks-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Computer_Hardware_Basics-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Networking_Basics-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Networking_Devices_Configuration-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Network_Addressing_Troubleshooting-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Network_Support_Security-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Network_Technician_Career_Path-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 
 <h4>Artificial Intelligence & Data Analytics ᕙ( ⇀` ‿ ´↼ )ᕗ</h4>
-<ul>
-  <li><strong>Generative AI for Software Developers</strong> (IBM, July 2026)</li>
-  <li><strong>Google Data Analytics Professional 3/9 Modules</strong> (Google, June-July 2026)</li>
-  <li><strong>Introduction to Modern AI</strong> (Cisco, August 2026)</li>
-  <li><strong>Apply AI: Analyze Customer Reviews</strong> (Cisco, Sept 2025)</li>
-</ul>
+<p>
+  <img src="https://img.shields.io/badge/IBM-Generative_AI_for_Software_Developers-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Data_Analytics_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Introduction_to_Modern_AI-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Apply_AI:_Analyze_Customer_Reviews-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 
 <h4>Software Development & Language ( ˘▽˘)旦</h4>
-<ul>
-  <li><strong>Crash Course on Python</strong> (Google, June 2026)</li>
-  <li><strong>JavaScript Essentials 1</strong> (Cisco, August 2025)</li>
-  <li><strong>HTML Essentials</strong> (Cisco, September 2026)</li>
-  <li><strong>EF SET English Certificate: C2 Proficient</strong> (Score: 80/100, May 2026)</li>
-</ul>
+<p>
+  <img src="https://img.shields.io/badge/Google-Crash_Course_on_Python-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-JavaScript_Essentials_1-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-HTML_Essentials-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/EF_SET-C2_Proficient_(80/100)-1A1A1A?style=for-the-badge&logo=esl-gaming&logoColor=white" />
+</p>
 
 <hr>
 
-<h3 align="center">Let's Connect! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</h3>
+<h3 align="center">Let's Connect! ⊂(≽^•⩊•^≼)つ</h3>
 <p align="center">I am always open to discussing new projects, creative ideas, or opportunities.</p>
 <p align="center">
   <a href="mailto:alleniceedequiros@gmail.com">Email Me</a> • 
@@ -305,5 +315,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=150&section=footer" />
+  <a href="https://allen-icee.is-a.dev">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=150&section=footer" />
+  </a>
 </p>
