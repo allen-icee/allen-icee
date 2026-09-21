@@ -5,19 +5,19 @@
 <table border="0" width="100%" style="border-collapse: collapse; margin-top: 20px;">
   <tr>
     <td width="20%" align="center" valign="middle">
-      <img src="assets/logo.jpg" alt="Allen's Logo" width="150" style="border-radius: 50%; border: 4px solid #2563EB; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="assets/logo.jpg" alt="Allen's Logo" width="150" style="border-radius: 50%; border: 4px solid #B47EFE; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
     </td>
     <td width="80%" valign="middle" style="padding-left: 20px;">
       <a href="https://allen-icee.is-a.dev">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2563EB&vCenter=true&width=600&lines=Allen+Icee+Dequiros+⊂(≽^•⩊•^≼)つ;BSIT+Magna+Cum+Laude;Full-Stack+Web+%26+Mobile+Dev;UI%2FUX+Designer+%26+Artist" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=B47EFE&vCenter=true&width=600&lines=Allen+Icee+Dequiros+⊂(≽^•⩊•^≼)つ;BSIT+Magna+Cum+Laude;Full-Stack+Web+%26+Mobile+Dev;Digital+Artist" alt="Typing SVG" />
       </a>
       <p style="font-size: 16px; color: #555; margin-top: 5px;">
         <strong>IT graduate interested in hands-on, practical technology work</strong>—especially troubleshooting, systems support, networking, and infrastructure. I enjoy solving technical problems, working with both hardware and software, and continuously learning how systems work together. Currently looking to grow through a full-time IT role where I can contribute, gain real-world experience, and build toward a career in IT infrastructure and networking. ᕙ(`▿´)ᕗ
       </p>
       <div style="margin-top: 15px;">
         <a href="https://allen-icee.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
-        <a href="https://www.linkedin.com/in/allen-icee-dequiros"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <a href="mailto:alleniceedequiros@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+        <a href="https://www.linkedin.com/in/allen-icee-dequiros"><img src="https://img.shields.io/badge/LinkedIn-B47EFE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="mailto:alleniceedequiros@gmail.com"><img src="https://img.shields.io/badge/Email-B47EFE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
       </div>
     </td>
   </tr>
@@ -68,7 +68,7 @@
         <li>Automated exception detection through GraphQL scanning of store orders.</li>
         <li>Clean Polaris UI dashboard for merchants to manage inventory exceptions.</li>
       </ul>
-      <a href="https://dear-recon.onrender.com/"><img src="https://img.shields.io/badge/Live_Website-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Live App"/></a>
+      <a href="https://dear-recon.onrender.com/"><img src="https://img.shields.io/badge/Live_Website-B47EFE?style=flat-square&logo=render&logoColor=white" alt="Live App"/></a>
       <a href="https://github.com/allen-icee/dear-recon"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -141,7 +141,7 @@
         <li>Integrated gesture recognition using MediaPipe and TensorFlow to create interactive sign language gameplay.</li>
         <li>Built mobile-ready deployment using Capacitor with Firebase Authentication, Firestore, and Cloud Functions.</li>
       </ul>
-      <a href="https://iron-gizmo-471110-d0.web.app"><img src="https://img.shields.io/badge/Live_Website-000000?style=flat-square&logo=firebase&logoColor=white" alt="Live App"/></a>
+      <a href="https://iron-gizmo-471110-d0.web.app"><img src="https://img.shields.io/badge/Live_Website-B47EFE?style=flat-square&logo=firebase&logoColor=white" alt="Live App"/></a>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="assets/SenyasFSL/MainPage/1.png" width="220"><br><br>
@@ -173,7 +173,7 @@
         <li>Implemented synchronized mobile and web interfaces with real-time Firestore database updates.</li>
         <li>Designed responsive dashboards and inventory workflows to reduce stock discrepancies and improve monitoring efficiency.</li>
       </ul>
-      <a href="https://drive.google.com/drive/folders/14UuRxBzHm6eAsmRgwRF8tHnCYWSHjp4R?usp=drive_link"><img src="https://img.shields.io/badge/View_Gallery-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="View Gallery"/></a>
+      <a href="https://drive.google.com/drive/folders/14UuRxBzHm6eAsmRgwRF8tHnCYWSHjp4R?usp=drive_link"><img src="https://img.shields.io/badge/View_Gallery-B47EFE?style=flat-square&logo=googledrive&logoColor=white" alt="View Gallery"/></a>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="assets/GG&G Inventory Management App/1.jpg" width="110">
@@ -195,7 +195,7 @@
         <li>Built an Electron-based desktop client for municipal staff to manage OR records, payments, and operational workflows.</li>
         <li>Implemented synchronization workers, automated expiration alerts, and audit logging to improve regulatory compliance.</li>
       </ul>
-      <a href="https://drive.google.com/drive/folders/1Dalthr5Zv-mPy7xF7yLdq4gtseXXNzCA?usp=drive_link"><img src="https://img.shields.io/badge/View_Gallery-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="View Gallery"/></a>
+      <a href="https://drive.google.com/drive/folders/1Dalthr5Zv-mPy7xF7yLdq4gtseXXNzCA?usp=drive_link"><img src="https://img.shields.io/badge/View_Gallery-B47EFE?style=flat-square&logo=googledrive&logoColor=white" alt="View Gallery"/></a>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="assets/MTOP System/1.png" width="220"><br><br>
@@ -211,7 +211,7 @@
         <li>Automated contract monitoring, penalty computation, and payment tracking to reduce manual administrative workload.</li>
         <li>Implemented role-based access control and Excel import utilities for efficient operational management.</li>
       </ul>
-      <a href="https://drive.google.com/drive/folders/1vEQyAK3rv1qRvIwKzB5NrcOGf_tU7S7f?usp=drive_link"><img src="https://img.shields.io/badge/View_Gallery-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="View Gallery"/></a>
+      <a href="https://drive.google.com/drive/folders/1vEQyAK3rv1qRvIwKzB5NrcOGf_tU7S7f?usp=drive_link"><img src="https://img.shields.io/badge/View_Gallery-B47EFE?style=flat-square&logo=googledrive&logoColor=white" alt="View Gallery"/></a>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="assets/Stall Management System/1.png" width="220"><br><br>
@@ -227,7 +227,7 @@
         <li>Built a centralized public catalog and administrative dashboard to replace paper-based tracking processes.</li>
         <li>Added automated overdue notifications, report exports, and library card management features.</li>
       </ul>
-      <a href="https://drive.google.com/drive/folders/1WuiH7b7FXBAtWU-UFppZekFtpqSNeKJB?usp=drive_link"><img src="https://img.shields.io/badge/View_Gallery-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="View Gallery"/></a>
+      <a href="https://drive.google.com/drive/folders/1WuiH7b7FXBAtWU-UFppZekFtpqSNeKJB?usp=drive_link"><img src="https://img.shields.io/badge/View_Gallery-B47EFE?style=flat-square&logo=googledrive&logoColor=white" alt="View Gallery"/></a>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="assets/Municipal Library System/PublicPage/1.png" width="220"><br><br>
@@ -243,7 +243,7 @@
         <li>Integrated Laravel Reverb WebSockets for live queue broadcasting and synchronized display updates.</li>
         <li>Improved patient flow and operational efficiency through structured intake and queue monitoring features.</li>
       </ul>
-      <a href="https://drive.google.com/drive/folders/1bx9vR_Lyuh-BwEz8tPQ3WzviuWt5flCY?usp=drive_link"><img src="https://img.shields.io/badge/View_Gallery-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="View Gallery"/></a>
+      <a href="https://drive.google.com/drive/folders/1bx9vR_Lyuh-BwEz8tPQ3WzviuWt5flCY?usp=drive_link"><img src="https://img.shields.io/badge/View_Gallery-B47EFE?style=flat-square&logo=googledrive&logoColor=white" alt="View Gallery"/></a>
     </td>
     <td width="40%" align="center" valign="middle">
       <img src="assets/Queueing System/1.png" width="220"><br><br>
@@ -254,23 +254,36 @@
 
 <hr>
 
-<h2 align="center">GitHub Activity ⊂(≽^•⩊•^≼)つ</h2>
-<p align="center">
-  <a href="https://github.com/allen-icee">
-    <img src="https://github-readme-stats.vercel.app/api?username=allen-icee&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/allen-icee">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=allen-icee&theme=transparent&hide_border=true&title_color=2563EB" alt="GitHub Streak" width="48%" />
-  </a>
-</p>
-
-<hr>
-
 <h3>Hobbies & Interests ૮ ˶ᵔ ᵕ ᵔ˶ ა</h3>
-<p>
-  <strong>Interests:</strong> Playing Instruments, Reading Books, Manhwas, Manhuas, Manga, Watching Movies (Horror, Drama, Romance), Drawing, Sketching, Learning New Stuffs, Crafting, Poetry, Writing. <br>
-  <strong>Favorites:</strong> Cats, Dogs, Birds, Butterflies, Insects, and the color Gray/Grey.
-</p>
+
+<table border="0" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top" style="border: 2px solid #B47EFE; border-radius: 10px; padding: 15px;">
+      <h4 align="center" style="color: #B47EFE;">⟡ Interests ⟡</h4>
+      <p>
+        • Playing Instruments ♫<br>
+        • Reading Books, Manhwas, Manhuas, Manga ૮ ˶ᵔ ᵕ ᵔ˶ ა<br>
+        • Watching Movies (Horror, Drama, Romance) ✧<br>
+        • Drawing & Sketching ✎<br>
+        • Learning New Stuffs ☆<br>
+        • Crafting ✂<br>
+        • Poetry & Writing ✐<br>
+        • Playing Games [+..••]
+      </p>
+    </td>
+    <td width="50%" valign="top" style="border: 2px solid #B47EFE; border-radius: 10px; padding: 15px;">
+      <h4 align="center" style="color: #B47EFE;">⟡ Favorites ⟡</h4>
+      <p>
+        • Cats (=^･ω･^=)<br>
+        • Dogs ૮ ・ﻌ・ა<br>
+        • Birds ʚĭɞ<br>
+        • Butterflies & Insects Ƹ̵̡Ӝ̵̨̄Ʒ<br>
+        • Miss Dino ૮ ˶ˆ ﻌ ˆ˶ ა<br>
+        • Ice Cream ( ˘▽˘)っ♨
+      </p>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
@@ -316,6 +329,6 @@
 
 <p align="center">
   <a href="https://allen-icee.is-a.dev">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=150&section=footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=B47EFE&height=150&section=footer" />
   </a>
 </p>
